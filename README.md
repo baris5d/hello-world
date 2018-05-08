@@ -3,4 +3,4 @@ Reddit/r/ProgrammerHumor'da bir Hello World çılgınlığı var idi, ben de dah
 Python bilmiyorum, olabilir böyle şeyler
 
 # Çalışan hali
-<img src="http://barisdede.com/py-gif.gif" width="572px">
+<img src="http://barisdede.com/py-gif.gif?id=2" width="572px">
